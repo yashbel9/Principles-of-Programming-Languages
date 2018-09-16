@@ -1,0 +1,23 @@
+c,b,d;
+{
+    b=3;
+    d=999;
+    
+    FOR(a=0;a<4;a=a+1;)
+    {
+        
+        print d;
+    }
+    FOR(c=1;c<5;c=c+2;)
+        {
+            
+            
+            print a;
+            print c;
+            
+            
+            
+        }
+        
+    
+}
